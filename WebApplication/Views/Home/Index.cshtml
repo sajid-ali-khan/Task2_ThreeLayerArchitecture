@@ -1,0 +1,50 @@
+﻿@model BusinessObject.UserBO
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+    <div class="container">
+        <div class="row">
+            <div class="form-group">
+                @Html.LabelFor(model => model.userName, new { @class = "control-label" })
+                @Html.TextBoxFor(model => model.userName, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.userName, null, new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="form-group">
+                @Html.LabelFor(model => model.userAddress, new { @class = "control-label" })
+                @Html.TextBoxFor(model => model.userAddress, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.userAddress, null, new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="form-group">
+                @Html.LabelFor(model => model.userEmail, new { @class = "control-label" })
+                @Html.TextBoxFor(model => model.userEmail, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.userEmail, null, new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="form-group">
+                @Html.LabelFor(model => model.userMobile, new { @class = "control-label" })
+                @Html.TextBoxFor(model => model.userMobile, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.userMobile, null, new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="form-group">
+                <input type="submit" value="Save" name="save" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+}

@@ -1,0 +1,14 @@
+C:\Users\sajid\source\repos\Task2_ThreeLayerArchitecture\DatabaseAccess\bin\Debug\DatabaseAccess.dll.config
+C:\Users\sajid\source\repos\Task2_ThreeLayerArchitecture\DatabaseAccess\bin\Debug\DatabaseAccess.dll
+C:\Users\sajid\source\repos\Task2_ThreeLayerArchitecture\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+C:\Users\sajid\source\repos\Task2_ThreeLayerArchitecture\DatabaseAccess\bin\Debug\BusinessObject.dll
+C:\Users\sajid\source\repos\Task2_ThreeLayerArchitecture\DatabaseAccess\bin\Debug\EntityFramework.dll
+C:\Users\sajid\source\repos\Task2_ThreeLayerArchitecture\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sajid\source\repos\Task2_ThreeLayerArchitecture\DatabaseAccess\bin\Debug\BusinessObject.pdb
+C:\Users\sajid\source\repos\Task2_ThreeLayerArchitecture\DatabaseAccess\bin\Debug\EntityFramework.xml
+C:\Users\sajid\source\repos\Task2_ThreeLayerArchitecture\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sajid\source\repos\Task2_ThreeLayerArchitecture\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.AssemblyReference.cache
+C:\Users\sajid\source\repos\Task2_ThreeLayerArchitecture\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\sajid\source\repos\Task2_ThreeLayerArchitecture\DatabaseAccess\obj\Debug\Database.3C889C45.Up2Date
+C:\Users\sajid\source\repos\Task2_ThreeLayerArchitecture\DatabaseAccess\obj\Debug\DatabaseAccess.dll
+C:\Users\sajid\source\repos\Task2_ThreeLayerArchitecture\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
